@@ -1,6 +1,6 @@
 FuSion Parking Management System
 Welcome!!!
-Author : Shamik Basu
+Author : Shamik Basu, Aryan Jamwal
 
 To start the application run file : PMS_main.py
 
