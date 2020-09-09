@@ -1,6 +1,9 @@
-# FuSion Parking-Management-System
+# Download single executable file for quick run here: 
+https://drive.google.com/file/d/18wryJjLQTItjLFOwLiSv7FAGGiY_6BFq/view?usp=sharing
+
+# About
 An experimental GUI (tkinter) project for Smart and Fast Parking Management. <br>
-Download single executable file for quick run here: https://drive.google.com/file/d/18wryJjLQTItjLFOwLiSv7FAGGiY_6BFq/view?usp=sharing
+
 
 # Author : Shamik Basu, Aryan Jamwal.
 
