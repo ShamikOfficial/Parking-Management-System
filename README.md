@@ -7,7 +7,7 @@ An experimental GUI (tkinter) project for Smart and Fast Parking Management. <br
 
 # Author : Shamik Basu, Aryan Jamwal.
 
-This goal of this project is to find the closest available parking slot based on 2-D co-ordinates. It sample 2-D live map depicts empty, filled and closest parking available slot on the map using diffrent colours. The algorithm is based on a shortest path-finding algorithm that has been implemented and tested on the sample live 2-D map. The information is stored in an offline SQL database and is built keeping in mind the idea of an intranet setup.
+The goal of this project is to find the closest available parking slot based on 2-D co-ordinates. It sample 2-D live map depicts empty, filled and closest parking available slot on the map using diffrent colours. The algorithm is based on a shortest path-finding algorithm that has been implemented and tested on the sample live 2-D map. The information is stored in an offline SQL database and is built keeping in mind the idea of an intranet setup.
 
 To start the application run file : PMS_main.py
 
