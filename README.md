@@ -20,11 +20,11 @@ To view Database File(.db) download sqlite3 Database Browser:
 https://sqlitebrowser.org/dl/
 
 # File Details:
-1)PMS_GUI_1.py : GUI and Database Module<br>
-2)PMS_Loci_2.py : Location Finding Module<br>
-3)PMS_Login_3.py : Login Module<br>
-4)PMS_Map_4.py : Display Map Module<br>
-5)map4.csv : Live Map Matrix<br>
-6)map_template.csv : Template Map Matrix<br>
+1)PMS_main.py : Main Program ( Run this to start the application )<br>
+2)PMS_GUI_1.py : GUI and Database Module<br>
+3)PMS_Loci_2.py : Location Finding Module<br>
+4)PMS_Login_3.py : Login Module<br>
+5)PMS_Map_4.py : Display Map Module<br>
+6)map4.csv : Live Map Matrix<br>
 7)login_info : Directory created on User Registration to save User Info<br>
-8)location5.db : Database File<br>
+8)location5.db : Database File created on User Registration to save User Info<br>
