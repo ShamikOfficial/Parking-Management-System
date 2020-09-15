@@ -20,7 +20,7 @@ Install using following command:<br>
 To view Database File(.db) download sqlite3 Database Browser:
 https://sqlitebrowser.org/dl/
 
-# File Details:
+# File Details: 
 
 1)PMS_main.py : Main Program ( Run this to start the application )<br>
 2)PMS_GUI_1.py : GUI and Database Module<br>
